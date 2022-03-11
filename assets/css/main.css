@@ -1765,9 +1765,10 @@ input, select, textarea {
 	}
 
 	header p {
-		color: #b2b2b2;
+		color: #cfcfcf;
+		opacity: 50%;
 		position: relative;
-		margin: 0 0 1.5em 0;
+		margin: 0 0 0.5em 0;
 	}
 
 	header h2 + p {
@@ -2655,7 +2656,7 @@ input, select, textarea {
 
 	#footer .copyright {
 		color: rgba(255, 255, 255, 0.4);
-		font-size: 0.8em;
+		font-size: 0.5em;
 		list-style: none;
 		margin: 1em 0 0 0;
 		padding: 0;
